@@ -1,0 +1,8 @@
+Descrição da atividade:  
+
+Desenvolver uma aplicação servidora que retorne os dados de todos os concursos da Mega-Sena, armazenados previamente em um banco de dados PostgreSQL. O acesso aos dados deverá ser integrado na aplicação front-end desenvolvida na atividade anterior. 
+
+Nota: 0,25 pts. na média final 
+Data de entrega: 21/mai 
+Forma de entrega: individual e presencial (não será aceita entrega pelo Teams) 
+Observação: o arquivo megasena.csv possui os sorteios da Mega-sena baixados do portal da Caixa.
